@@ -1,0 +1,127 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m8.930 ms - -[0m
+[0mGET / [36m304 [0m1.692 ms - -[0m
+[0mGET /style.css [36m304 [0m0.712 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m0.337 ms - -[0m
+[0mGET / [36m304 [0m0.476 ms - -[0m
+[0mGET /style.css [36m304 [0m0.262 ms - -[0m
+[0mGET /style.css [36m304 [0m0.486 ms - -[0m
+{ q: 'A' }
+/^A/
+[0mGET /getcity?q=A [32m200 [0m7.066 ms - 194[0m
+[0mGET / [36m304 [0m0.424 ms - -[0m
+[0mGET /style.css [36m304 [0m0.325 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m0.240 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m3.203 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m1.766 ms - -[0m
+{ q: '' }
+/^/
+[0mGET /getcity?q= [32m200 [0m2.609 ms - 5080[0m
+{ q: 'A' }
+/^A/
+[0mGET /getcity?q=A [36m304 [0m0.729 ms - -[0m
+{ q: 'A' }
+/^A/
+[0mGET /getcity?q=A [36m304 [0m0.707 ms - -[0m
+{ q: '' }
+/^/
+[0mGET /getcity?q= [36m304 [0m2.278 ms - -[0m
+{ q: 'A' }
+/^A/
+[0mGET /getcity?q=A [36m304 [0m2.224 ms - -[0m
+{ q: 'A' }
+/^A/
+[0mGET /getcity?q=A [36m304 [0m0.996 ms - -[0m
+{ q: 'Al' }
+/^Al/
+[0mGET /getcity?q=Al [32m200 [0m1.281 ms - 75[0m
+{ q: 'Alpi' }
+/^Alpi/
+[0mGET /getcity?q=Alpi [32m200 [0m0.809 ms - 19[0m
+{ q: 'Alpine' }
+/^Alpine/
+[0mGET /getcity?q=Alpine [32m200 [0m0.676 ms - 19[0m
+{ q: 'Alpine' }
+/^Alpine/
+[0mGET /getcity?q=Alpine [36m304 [0m0.535 ms - -[0m
+{ q: 'Alpine' }
+/^Alpine/
+[0mGET /getcity?q=Alpine [36m304 [0m0.586 ms - -[0m
+[0mGET / [36m304 [0m0.974 ms - -[0m
+[0mGET /style.css [36m304 [0m0.293 ms - -[0m
+[0mGET /weather.jpeg [32m200 [0m4.095 ms - 1560347[0m
+[0mGET / [32m200 [0m1.234 ms - 2343[0m
+[0mGET /style.css [36m304 [0m0.289 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m0.271 ms - -[0m
+[0mGET / [32m200 [0m0.870 ms - 2314[0m
+[0mGET /style.css [36m304 [0m0.303 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m0.458 ms - -[0m
+[0mGET / [36m304 [0m0.388 ms - -[0m
+[0mGET /style.css [32m200 [0m0.575 ms - 446[0m
+[0mGET /weather.jpeg [36m304 [0m0.291 ms - -[0m
+[0mGET / [36m304 [0m0.831 ms - -[0m
+[0mGET /style.css [36m304 [0m0.571 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m2.378 ms - -[0m
+[0mGET / [36m304 [0m0.409 ms - -[0m
+[0mGET /style.css [32m200 [0m0.457 ms - 460[0m
+[0mGET /weather.jpeg [36m304 [0m0.250 ms - -[0m
+[0mGET / [36m304 [0m0.884 ms - -[0m
+[0mGET /style.css [36m304 [0m0.585 ms - -[0m
+[0mGET /style.css [32m200 [0m1.233 ms - 460[0m
+[0mGET /weather.jpeg [36m304 [0m1.535 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m0.706 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m0.516 ms - -[0m
+{ q: '' }
+/^/
+[0mGET /getcity?q= [36m304 [0m1.040 ms - -[0m
+{ q: '' }
+/^/
+[0mGET /getcity?q= [36m304 [0m3.927 ms - -[0m
+[0mGET / [36m304 [0m0.820 ms - -[0m
+[0mGET /style.css [32m200 [0m0.479 ms - 476[0m
+[0mGET /weather.jpeg [36m304 [0m0.285 ms - -[0m
+[0mGET / [36m304 [0m0.842 ms - -[0m
+[0mGET /style.css [32m200 [0m0.490 ms - 481[0m
+[0mGET /weather.jpeg [36m304 [0m0.305 ms - -[0m
+[0mGET / [32m200 [0m0.937 ms - 2323[0m
+[0mGET /style.css [36m304 [0m0.305 ms - -[0m
+[0mGET /weather.jpeg [36m304 [0m0.291 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m0.709 ms - -[0m
+{ q: 'P' }
+/^P/
+[0mGET /getcity?q=P [36m304 [0m0.674 ms - -[0m
+{ q: 'Pr' }
+/^Pr/
+[0mGET /getcity?q=Pr [36m304 [0m0.731 ms - -[0m
+{ q: 'Pro' }
+/^Pro/
+[0mGET /getcity?q=Pro [36m304 [0m1.864 ms - -[0m
+{ q: 'Prov' }
+/^Prov/
+[0mGET /getcity?q=Prov [32m200 [0m1.436 ms - 40[0m
+{ q: 'Provo' }
+/^Provo/
+[0mGET /getcity?q=Provo [36m304 [0m0.741 ms - -[0m
+[0mGET / [36m304 [0m1.016 ms - -[0m
+[0mGET /style.css [32m200 [0m0.462 ms - 481[0m
+[0mGET /weather.jpeg [36m304 [0m1.379 ms - -[0m
+[0mGET / [36m304 [0m0.703 ms - -[0m
+[0mGET /style.css [32m200 [0m0.461 ms - 480[0m
+[0mGET /weather.jpeg [36m304 [0m0.278 ms - -[0m
+{ q: '' }
+/^/
+[0mGET /getcity?q= [36m304 [0m1.021 ms - -[0m
+[0mGET / [32m200 [0m1.177 ms - 2323[0m
+[0mGET /style.css [32m200 [0m1.000 ms - 480[0m
+[0mGET /weather.jpeg [32m200 [0m1.372 ms - 1560347[0m
+[0mGET /favicon.ico [33m404 [0m7.596 ms - 1236[0m
